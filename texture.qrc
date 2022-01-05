@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/gzhu_op.png</file>
+        <file>stylesheet.qss</file>
+        <file>mstuttgartStyleSheet.qss</file>
+        <file>Diplaytap.qss</file>
+        <file>Integrid.qss</file>
+        <file>Toolery.qss</file>
+        <file>Adaptic.qss</file>
+    </qresource>
+</RCC>
