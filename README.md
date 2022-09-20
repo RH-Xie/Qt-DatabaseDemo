@@ -1,5 +1,5 @@
 # Qt-DatabaseDemo
-![QtDatabase](https://github.com/RH-Xie/Qt-DatabaseDemo/blob/master/t.jpg)
+<img src="https://github.com/RH-Xie/Qt-DatabaseDemo/blob/master/t.jpg" width="400" />
 
 A test on qt database programming, for training purpose.
 
